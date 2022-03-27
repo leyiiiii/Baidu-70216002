@@ -282,37 +282,12 @@ body{
     color: #315efb;
 }
 
-#hot li .hot-tag{
-    display: inline-block;
-    margin-left: 8px;
-    margin-bottom: 4px;
-    padding: 0 2px;
-    text-align: center;
-    vertical-align: middle;
-    font-style: normal;
-    color: #fff;
-    overflow: hidden;
-    height: 16px;
-    line-height: 16px;
-    font-size: 12px;
-    border-radius: 4px;
-    font-weight: 200;
-}
-
-#hot li .hot-tag.hot{
-    background-color: #ff9812;
-}
-
-#hot li .hot-tag.new{
-    background-color: #ff455b;
-}
-
 #hot li img{
     float: right;
     margin: 8px auto;
 }
 
-#hot-amount{
+#hot .hot-amount{
     margin-right: 5px;
     color: #9ea1af;
     float: right;
